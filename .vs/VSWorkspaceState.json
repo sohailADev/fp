@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assets",
+    "\\Assets\\css",
+    "\\Assets\\fonts",
+    "\\Assets\\js\\lib",
+    "\\Assets\\js\\lib\\plugins",
+    "\\config",
+    "\\Controllers",
+    "\\Views",
+    "\\Views\\PartialViews",
+    "\\Views\\Users"
+  ],
+  "SelectedNode": "\\Views\\PartialViews\\tools.php",
+  "PreviewInSolutionExplorer": false
+}
